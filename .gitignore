@@ -1,0 +1,21 @@
+# Quartus build outputs
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+qdb/
+tmp-clearbox/
+*.qws
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.sld
+
+# Questa / ModelSim
+work/
+transcript
+*.wlf
